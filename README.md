@@ -1,8 +1,7 @@
 <h1>Hi, I'm Gabriel, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
+ - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)- <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/GDiaz-24/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/GDiaz-24/ticket-lifecycle)
 - <b>Microsoft Azure</b>
